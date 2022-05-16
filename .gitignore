@@ -291,6 +291,9 @@ pip-selfcheck.json
 # Ignore code-workspaces
 *.code-workspace
 
+# Ignore Vscode settings
+.vscode/settings.json
+
 ### Zsh ###
 # Zsh compiled script + zrecompile backup
 *.zwc
